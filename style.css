@@ -92,3 +92,22 @@
 
           justify-content: center;
         }
+
+       @media (min-width: 600px) {
+        main { background: url(photo/Desktop.svg) no-repeat center/cover;
+        width: 100vw;
+        min-height: 812px; 
+        height: 100vh; }
+    
+       }
+         
+       @media (min-width: 1000px) {
+        main { background: url(photo/Desktop.svg) no-repeat center/cover;
+        width: 100vw;
+        min-height: 812px; 
+        height: 100vh; }
+      
+    
+
+        
+       
